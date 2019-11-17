@@ -1,0 +1,24 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "this is new meanApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "^3.3.4",
+    "mongoose": "*",
+    "nodemon": "^1.19.4",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "yogendra verma",
+  "license": "ISC"
+}
